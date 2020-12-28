@@ -17,5 +17,6 @@ Output will be saved in output/target.com-YYYY-MM-DD directory
 ##### Prerequisites
 - python3
 - pip3 install shodan
+- pip3 install mmh3
 - Shodan Member Account & API
 - httpx [@pdiscoveryio](https://github.com/projectdiscovery/httpx)
