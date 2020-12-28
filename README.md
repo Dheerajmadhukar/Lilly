@@ -14,5 +14,5 @@ root@me_dheeraj:$ bash lilly.sh
 
 Output will be saved in output/target.com-YYYY-MM-DD directory
 ```
-##### Prerequisites
+##### Prerequisite
 - Shodan Member Account & API
