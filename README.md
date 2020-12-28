@@ -23,4 +23,4 @@ Output will be saved in output/target.com-YYYY-MM-DD directory
 - pip3 install mmh3
 - Shodan Member Account & API
 - httpx [@pdiscoveryio](https://github.com/projectdiscovery/httpx)
-- Multi-Threading interlace [@codingo](https://github.com/codingo/Interlace)
+- Multi-Threading interlace - [@codingo](https://github.com/codingo/Interlace)
