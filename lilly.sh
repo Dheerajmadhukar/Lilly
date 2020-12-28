@@ -5,7 +5,7 @@ yellow="\e[33m"
 end="\e[0m"
 Usage() {
        echo -e "$green
-       Usage: ./shodan.sh -d/--domain target.com & -a/--api premium_api
+       Usage: ./lilly.sh -d/--domain target.com & -a/--api premium_api
        "$end
   exit 1
 }
