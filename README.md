@@ -15,4 +15,7 @@ root@me_dheeraj:$ bash lilly.sh
 Output will be saved in output/target.com-YYYY-MM-DD directory
 ```
 ##### Prerequisite
+- python3
+- pip3 install shodan
 - Shodan Member Account & API
+- httpx [https://github.com/projectdiscovery/httpx]
