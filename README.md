@@ -10,7 +10,7 @@ Tool to find the real IP behind CDNs/WAFs like cloudflare using passive recon by
 root@me_dheeraj:$ bash lilly.sh
 [-] Argument: -d/--domain target.com -a/--api Required
 
-       Usage: ./shodan.sh -d/--domain target.com & -a/--api premium_api
+       Usage: ./shodan.sh -d/--domain target.com -a/--api premium_api
 
 Output will be saved in output/target.com-YYYY-MM-DD directory
 ```
