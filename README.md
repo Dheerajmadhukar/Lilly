@@ -19,4 +19,3 @@ Output will be saved in output/target.com-YYYY-MM-DD directory
 - pip3 install shodan
 - Shodan Member Account & API
 - httpx [@pdiscoveryio](https://twitter.com/pdiscoveryio/httpx)
-
