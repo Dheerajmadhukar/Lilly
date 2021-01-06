@@ -24,3 +24,7 @@ Output will be saved in output/target.com-YYYY-MM-DD directory
 - Shodan Member Account & API
 - httpx [@pdiscoveryio](https://github.com/projectdiscovery/httpx)
 - Multi-Threading interlace - [@codingo](https://github.com/codingo/Interlace)
+
+
+## Tool of the weak 
+https://blog.intigriti.com/2021/01/06/bug-bytes-104-cache-poisoning-dos-burp-themes-a-couple-of-facebook-account-takeovers/
