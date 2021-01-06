@@ -26,5 +26,5 @@ Output will be saved in output/target.com-YYYY-MM-DD directory
 - Multi-Threading interlace - [@codingo](https://github.com/codingo/Interlace)
 
 
-## Tool of the weak 
+## Tool of the week
 https://blog.intigriti.com/2021/01/06/bug-bytes-104-cache-poisoning-dos-burp-themes-a-couple-of-facebook-account-takeovers/
